@@ -1,5 +1,4 @@
-
-## https://www.linkedin.com/pulse/llmlarge-language-models-numeric-data-think-stats-chuck-hernandez%3FtrackingId=Ur%252FigJ6jRMihj378PKV%252Fjg%253D%253D/?trackingId=Ur%2FigJ6jRMihj378PKV%2Fjg%3D%3D
+https://www.linkedin.com/pulse/llmlarge-language-models-numeric-data-think-stats-chuck-hernandez%3FtrackingId=Ur%252FigJ6jRMihj378PKV%252Fjg%253D%253D/?trackingId=Ur%2FigJ6jRMihj378PKV%2Fjg%3D%3D
 
 LLMs are a powerful tool for understanding and analyzing text data. However, LLMs can also be used to understand and analyze numeric data. In this article, I will discuss how LLMs can be used to answer questions about numeric data, and I will share some code snippets of how I have used an LLM to analyze marketing data.
 Highlights:
